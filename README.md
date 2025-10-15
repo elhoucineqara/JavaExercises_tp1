@@ -146,14 +146,6 @@ Multiplication table of 7:
 ---
 
 ## Compilation and Execution
-
-### Compile All Exercises
-```bash
-cd src
-javac exercice1/*.java exercice2/*.java exercice3/*.java exercice4/*.java
-```
-
-### Run Individual Exercises
 ```bash
 java exercice1.TestCalculator
 java exercice2.TestStudent
